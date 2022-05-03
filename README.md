@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **dus6982/dus6982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![poo](https://user-images.githubusercontent.com/97671781/166467627-105d599c-88f6-4290-9b84-87b63374f18f.gif)
+<div align="center">
+  <h2> Hi there 👋 </h2>
+  <img src="https://user-images.githubusercontent.com/97671781/166467627-105d599c-88f6-4290-9b84-87b63374f18f.gif"/>
+</div>
